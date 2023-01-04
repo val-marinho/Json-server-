@@ -1,0 +1,41 @@
+{
+"cabelo": [
+    {"servico": "corte", "clienteId": 10, "id": 111, "valor": "R$:38,00"}, 
+    {"servico": "coloração", "clienteId": 20, "id": 222, "valor": "R$:100,00"}, 
+    {"servico": "alisamento", "clienteId": 30, "id": 333, "valor": "R$:150,00"}, 
+    {"servico": "hidratação", "clienteId": 40, "id": 444, "valor": "R$:50"},
+    {"servico": "escova modeladora", "clienteId": 50, "id": 555, "valor": "R$:48,00"},
+    {"servico": "penteado", "clienteId": 60, "id": 666, "valor": "R$:70,00"}
+
+],
+
+"unhas": [
+    {"serviço": "esmaltação", "clienteId":70,  "id": 777, "preço": "R$:15,00" },
+    {"serviço": "alongamento", "clienteId":80,  "id": 888, "preço": "R$:140,00" },
+    {"serviço": "pedicure", "clienteId":90, "id": 999, "preço": "R$:20,00" },
+    {"serviço": "cutilagem", "clienteId":100,  "id": 1010, "preço": "R$:17,00" }
+
+],
+
+"maquiagem": [
+    {"serviço": "maquiagem simples", "clienteId":110,  "id": 1020, "preço": "R$:100,00" },
+    {"serviço": "maquiagem completa", "clienteId":120,  "id": 1030, "preço": "R$:180,00" },
+    {"serviço": "maquiagem artística", "clienteId":130,  "id": 1040, "preço": "R$:250,00" },
+    {"serviço": "maquiagem noiva", "clienteId":140,  "id": 1050, "preço": "R$:350,00" }
+],
+    
+"funcionarios": [
+    {"nome": "Patricia", "cargo": "recepcionista", "id": 21, "salario": "R$:3.000" },
+    {"nome": "Polyana", "cargo": "cabelereira", "id": 22, "salario": "R$:7.000" },
+    {"nome": "Vitória", "cargo": "manicure", "id": 23, "salario": "R$:5.000" },
+    {"nome": "Valesca", "cargo": "maquiadora", "id": 24, "salario": "10.000"},
+    {"nome": "Pedro", "cargo": "limpeza", "id": 25, "salario": "R$:2.500"}
+
+], 
+"clientes": [
+    {"nome": "Victória", "procedimento": "hidratação e coloração", "id": 13, "telefone": "95555-5555"},
+    {"nome": "Beatriz", "procedimento": "alongamento", "id": 14, "telefone": "95555-5556"},
+    {"nome": "Milena", "procedimento": "maquiagem", "id": 15, "telefone": "95555-5557"},
+    {"nome": "Rosiane", "procedimento": "penteado", "id": 16, "telefone": "95555-5558"}
+]
+}
